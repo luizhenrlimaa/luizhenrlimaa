@@ -1,3 +1,6 @@
+
+https://www.linkedin.com/shareArticle?mini=true&url=[https://www.linkedin.com/in/luiz-henrique-lima-ti/]
+
 ### Olá , seja bem vindo ao meu perfil! 👋
 
 

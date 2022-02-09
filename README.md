@@ -13,3 +13,8 @@ Me chamo Luiz Henrique é atualmente...
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
 -  Cursando Sistemas de Informação pela UFVJM! :books: ...
+
+### Contato:
+  [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-lima-ti/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](luizhenrlimaa@gmail.com)
+
